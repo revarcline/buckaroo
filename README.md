@@ -78,3 +78,6 @@ Once you understand the fundamentals a bit more, dive into data with [Architecti
 - [Optimize Images in Eleventy Using Cloudinary](https://sia.codes/posts/eleventy-and-cloudinary-images/)
 - [An In-Depth Tutorial of Webmentions + Eleventy](https://sia.codes/posts/webmentions-eleventy-in-depth/)
 - [Show conditional Twitter intents with Eleventy](https://sia.codes/posts/conditional-twitter-intents-with-eleventy/)
+
+
+for pdf use use passthroughcopy
