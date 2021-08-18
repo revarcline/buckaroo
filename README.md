@@ -1,4 +1,4 @@
-# 11ty-sia-blog
+# buckar.ooo
 
 An [Eleventy](https://github.com/11ty/eleventy) blog starter forked from [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) but with Sia's opinions.
 
@@ -33,7 +33,7 @@ These builders are amazing—in just a few clicks, you'll have your repo and a b
   npm install
   ```
 3. Look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
-4. Edit _data/metadata.json
+4. Edit `_data/metadata.json`
 5. Run Eleventy locally on a dev server:
   ```
   npm start
